@@ -1,0 +1,183 @@
+{
+  "line": {
+    "style_edits": {
+      "specific": {
+        "colors": 800,
+        "linestyles": 800,
+        "markers": 800
+      },
+      "common": {
+        "font": 800,
+        "font_size": 800
+      }
+    },
+    "layout_edits": {
+      "grid": 800,
+      "legend": 800
+    },
+    "format_edits": {
+      "grouped vertical bar": 800,
+      "stacked vertical bar": 800,
+      "grouped horizontal bar": 800,
+      "stacked horizontal bar": 800
+    },
+    "data_edits": {
+      "data_filter": {
+        "range_based": 1600,
+        "series_based": 1600
+      },
+      "data_point_change": {
+        "add_data_point": 1600,
+        "remove_data_point": 1600
+      },
+      "data_series_change": {
+        "add_data_series": 1600,
+        "remove_data_series": 1600
+      }
+    }
+  },
+  "grouped vertical bar": {
+    "style_edits": {
+      "specific": {
+        "colors": 800,
+        "hatches": 800
+      },
+      "common": {
+        "font": 800,
+        "font_size": 800
+      }
+    },
+    "layout_edits": {
+      "grid": 800,
+      "legend": 800
+    },
+    "format_edits": {
+      "line": 800,
+      "stacked vertical bar": 800,
+      "grouped horizontal bar": 800,
+      "stacked horizontal bar": 800
+    },
+    "data_edits": {
+      "data_filter": {
+        "range_based": 1600,
+        "series_based": 1600
+      },
+      "data_point_change": {
+        "add_data_point": 1600,
+        "remove_data_point": 1600
+      },
+      "data_series_change": {
+        "add_data_series": 1600,
+        "remove_data_series": 1600
+      }
+    }
+  },
+  "stacked vertical bar": {
+    "style_edits": {
+      "specific": {
+        "colors": 800,
+        "hatches": 800
+      },
+      "common": {
+        "font": 800,
+        "font_size": 800
+      }
+    },
+    "layout_edits": {
+      "grid": 800,
+      "legend": 800
+    },
+    "format_edits": {
+      "line": 800,
+      "grouped vertical bar": 800,
+      "grouped horizontal bar": 800,
+      "stacked horizontal bar": 800
+    },
+    "data_edits": {
+      "data_filter": {
+        "range_based": 1600,
+        "series_based": 1600
+      },
+      "data_point_change": {
+        "add_data_point": 1600,
+        "remove_data_point": 1600
+      },
+      "data_series_change": {
+        "add_data_series": 1600,
+        "remove_data_series": 1600
+      }
+    }
+  },
+  "grouped horizontal bar": {
+    "style_edits": {
+      "specific": {
+        "colors": 800,
+        "hatches": 800
+      },
+      "common": {
+        "font": 800,
+        "font_size": 800
+      }
+    },
+    "layout_edits": {
+      "grid": 800,
+      "legend": 800
+    },
+    "format_edits": {
+      "line": 800,
+      "stacked horizontal bar": 800,
+      "grouped vertical bar": 800,
+      "stacked vertical bar": 800
+    },
+    "data_edits": {
+      "data_filter": {
+        "range_based": 1600,
+        "series_based": 1600
+      },
+      "data_point_change": {
+        "add_data_point": 1600,
+        "remove_data_point": 1600
+      },
+      "data_series_change": {
+        "add_data_series": 1600,
+        "remove_data_series": 1600
+      }
+    }
+  },
+  "stacked horizontal bar": {
+    "style_edits": {
+      "specific": {
+        "colors": 800,
+        "hatches": 800
+      },
+      "common": {
+        "font": 800,
+        "font_size": 800
+      }
+    },
+    "layout_edits": {
+      "grid": 800,
+      "legend": 800
+    },
+    "format_edits": {
+      "line": 800,
+      "grouped horizontal bar": 800,
+      "grouped vertical bar": 800,
+      "stacked vertical bar": 800
+    },
+    "data_edits": {
+      "data_filter": {
+        "range_based": 1600,
+        "series_based": 1600
+      },
+      "data_point_change": {
+        "add_data_point": 1600,
+        "remove_data_point": 1600
+      },
+      "data_series_change": {
+        "add_data_series": 1600,
+        "remove_data_series": 1600
+      }
+    }
+  }
+}

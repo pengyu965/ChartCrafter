@@ -1,0 +1,183 @@
+{
+  "line": {
+    "style_edits": {
+      "specific": {
+        "colors": 1000,
+        "linestyles": 1000,
+        "markers": 1000
+      },
+      "common": {
+        "font": 1000,
+        "font_size": 1000
+      }
+    },
+    "layout_edits": {
+      "grid": 1000,
+      "legend": 1000
+    },
+    "format_edits": {
+      "grouped vertical bar": 1000,
+      "stacked vertical bar": 1000,
+      "grouped horizontal bar": 1000,
+      "stacked horizontal bar": 1000
+    },
+    "data_edits": {
+      "data_filter": {
+        "range_based": 2000,
+        "series_based": 2000
+      },
+      "data_point_change": {
+        "add_data_point": 2000,
+        "remove_data_point": 2000
+      },
+      "data_series_change": {
+        "add_data_series": 2000,
+        "remove_data_series": 2000
+      }
+    }
+  },
+  "grouped vertical bar": {
+    "style_edits": {
+      "specific": {
+        "colors": 1000,
+        "hatches": 1000
+      },
+      "common": {
+        "font": 1000,
+        "font_size": 1000
+      }
+    },
+    "layout_edits": {
+      "grid": 1000,
+      "legend": 1000
+    },
+    "format_edits": {
+      "line": 1000,
+      "stacked vertical bar": 1000,
+      "grouped horizontal bar": 1000,
+      "stacked horizontal bar": 1000
+    },
+    "data_edits": {
+      "data_filter": {
+        "range_based": 2000,
+        "series_based": 2000
+      },
+      "data_point_change": {
+        "add_data_point": 2000,
+        "remove_data_point": 2000
+      },
+      "data_series_change": {
+        "add_data_series": 2000,
+        "remove_data_series": 2000
+      }
+    }
+  },
+  "stacked vertical bar": {
+    "style_edits": {
+      "specific": {
+        "colors": 1000,
+        "hatches": 1000
+      },
+      "common": {
+        "font": 1000,
+        "font_size": 1000
+      }
+    },
+    "layout_edits": {
+      "grid": 1000,
+      "legend": 1000
+    },
+    "format_edits": {
+      "line": 1000,
+      "grouped vertical bar": 1000,
+      "grouped horizontal bar": 1000,
+      "stacked horizontal bar": 1000
+    },
+    "data_edits": {
+      "data_filter": {
+        "range_based": 2000,
+        "series_based": 2000
+      },
+      "data_point_change": {
+        "add_data_point": 2000,
+        "remove_data_point": 2000
+      },
+      "data_series_change": {
+        "add_data_series": 2000,
+        "remove_data_series": 2000
+      }
+    }
+  },
+  "grouped horizontal bar": {
+    "style_edits": {
+      "specific": {
+        "colors": 1000,
+        "hatches": 1000
+      },
+      "common": {
+        "font": 1000,
+        "font_size": 1000
+      }
+    },
+    "layout_edits": {
+      "grid": 1000,
+      "legend": 1000
+    },
+    "format_edits": {
+      "line": 1000,
+      "stacked horizontal bar": 1000,
+      "grouped vertical bar": 1000,
+      "stacked vertical bar": 1000
+    },
+    "data_edits": {
+      "data_filter": {
+        "range_based": 2000,
+        "series_based": 2000
+      },
+      "data_point_change": {
+        "add_data_point": 2000,
+        "remove_data_point": 2000
+      },
+      "data_series_change": {
+        "add_data_series": 2000,
+        "remove_data_series": 2000
+      }
+    }
+  },
+  "stacked horizontal bar": {
+    "style_edits": {
+      "specific": {
+        "colors": 1000,
+        "hatches": 1000
+      },
+      "common": {
+        "font": 1000,
+        "font_size": 1000
+      }
+    },
+    "layout_edits": {
+      "grid": 1000,
+      "legend": 1000
+    },
+    "format_edits": {
+      "line": 1000,
+      "grouped horizontal bar": 1000,
+      "grouped vertical bar": 1000,
+      "stacked vertical bar": 1000
+    },
+    "data_edits": {
+      "data_filter": {
+        "range_based": 2000,
+        "series_based": 2000
+      },
+      "data_point_change": {
+        "add_data_point": 2000,
+        "remove_data_point": 2000
+      },
+      "data_series_change": {
+        "add_data_series": 2000,
+        "remove_data_series": 2000
+      }
+    }
+  }
+}
